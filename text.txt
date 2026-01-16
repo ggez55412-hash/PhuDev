@@ -1,1 +1,2 @@
 Homework: Course: Django https://youtu.be/6gkUuJIZq_s?si=Hjh8xJT5lc1v7p0m
+Homework: Course: Database https://youtu.be/sgQiJ-8Ra8c?si=IgStE5wA4LeNtVkv
